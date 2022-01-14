@@ -20,7 +20,7 @@ public class User {
 	private String nom;
 	@Column(name="prenomusers")
 	private String prenom;
-	@Column(name="datenaissance")
+	@Column(name="datenaissanceusers")
 	private Date dateNaissance;
 	
 	
